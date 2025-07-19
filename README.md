@@ -64,4 +64,4 @@ https://github.com/dinitheth/MegaTrack.git
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-build by dinitheth
+Built by dinitheth
