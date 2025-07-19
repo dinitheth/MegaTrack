@@ -1,7 +1,5 @@
 # MegaTrack - MegaETH Testnet Dashboard
 
-![MegaTrack Screenshot](https://placehold.co/800x450.png?text=MegaTrack+Dashboard)
-
 MegaTrack is a real-time, on-chain dashboard for the MegaETH testnet. It provides users with a clean, responsive, and intuitive interface to monitor network activity, inspect contracts, and track token movements.
 
 ## ✨ Features
